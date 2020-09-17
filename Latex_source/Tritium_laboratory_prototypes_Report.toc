@@ -1,0 +1,7 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Tritium-IFIC 0 prototype}{3}{section.2}
+\contentsline {section}{\numberline {3}Tritium-IFIC 1 prototype}{6}{section.3}
+\contentsline {section}{\numberline {4}Tritium-IFIC 2 prototype}{9}{section.4}
+\contentsline {section}{\numberline {5}Conclusions}{11}{section.5}
+\contentsline {section}{\numberline {6}Appendice A: Protocol following for filling in the tritium prototypes}{12}{section.6}
