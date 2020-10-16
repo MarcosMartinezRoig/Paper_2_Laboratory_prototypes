@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Tritium-IFIC 2}{3}{0}{1}
+\beamer@sectionintoc {2}{Prototype efficiency measurement}{7}{0}{2}
+\beamer@sectionintoc {3}{Long-term stability of Tritium-IFIC 2 prototypes}{14}{0}{3}
+\beamer@sectionintoc {4}{Next step}{22}{0}{4}
